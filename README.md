@@ -20,11 +20,6 @@ Deployed on the **iOS App Store** and **Google Play Store**
 ### 2. Don't Get Cooked *(Built for fun, vibe coded)*
 A Telegram bot and full-stack web app that sends you a reminder every morning at 9am if a friend's birthday or a scheduled event falls on that day.
 
-**Tech Stack**
-- **Frontend** — Next.js + React, deployed on Vercel
-- **Backend** — NestJS, deployed on AWS EC2 with Docker, Caddy, and DuckDNS
-- **Notifications** — Telegram Bot API
-
 [Website](https://dontgetcooked.vercel.app/)
 
 Telegram Bot Name: @dontgetcookedbot
