@@ -15,13 +15,3 @@ Deployed on the **iOS App Store** and **Google Play Store**
 
 💼 [LinkedIn](https://sg.linkedin.com/company/callbridgesg)
 
----
-
-### 2. Don't Get Cooked *(Built for fun, vibe coded)*
-A Telegram bot and full-stack web app that sends you a reminder every morning at 9am if a friend's birthday or a scheduled event falls on that day.
-
-[Website](https://dontgetcooked.vercel.app/)
-
-Telegram Bot Name: @dontgetcookedbot
-
-> ⚠️ Note: Frontend may not work if your Wi-Fi blocks dynamic DNS sites like DuckDNS.
